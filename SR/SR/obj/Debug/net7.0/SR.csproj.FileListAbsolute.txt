@@ -1,0 +1,15 @@
+H:\SR\SR\bin\Debug\net7.0\SR.exe
+H:\SR\SR\bin\Debug\net7.0\SR.deps.json
+H:\SR\SR\bin\Debug\net7.0\SR.runtimeconfig.json
+H:\SR\SR\bin\Debug\net7.0\SR.dll
+H:\SR\SR\bin\Debug\net7.0\SR.pdb
+H:\SR\SR\obj\Debug\net7.0\SR.csproj.AssemblyReference.cache
+H:\SR\SR\obj\Debug\net7.0\SR.GeneratedMSBuildEditorConfig.editorconfig
+H:\SR\SR\obj\Debug\net7.0\SR.AssemblyInfoInputs.cache
+H:\SR\SR\obj\Debug\net7.0\SR.AssemblyInfo.cs
+H:\SR\SR\obj\Debug\net7.0\SR.csproj.CoreCompileInputs.cache
+H:\SR\SR\obj\Debug\net7.0\SR.dll
+H:\SR\SR\obj\Debug\net7.0\refint\SR.dll
+H:\SR\SR\obj\Debug\net7.0\SR.pdb
+H:\SR\SR\obj\Debug\net7.0\SR.genruntimeconfig.cache
+H:\SR\SR\obj\Debug\net7.0\ref\SR.dll
